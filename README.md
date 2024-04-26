@@ -1,4 +1,4 @@
-### Identificar y explciar por que se esta violacioletando el principio de SRP.
+### Identificar y explicar por que se esta violentando el principio de SRP.
 
 ```
 Se esta violentando el pricipio ya que a la clase "person" le estamos dando la responsabilidad de enviar correos
